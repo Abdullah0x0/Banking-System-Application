@@ -33,14 +33,6 @@ To run the Bank System Application, ensure you have a compatible C++ compiler an
 
 After launching the application, follow the on-screen prompts to interact with the banking system. The main menu provides options to open a new bank account, modify existing accounts, and access sub-account functionalities for savings and checking accounts.
 
-## Contributing
-
-Contributions to the Bank System Application are welcome. Please feel free to fork the repository, make your changes, and submit a pull request for review.
-
-## License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Acknowledgments
 
 - This project was inspired by traditional banking systems and their account management features.
